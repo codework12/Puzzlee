@@ -101,7 +101,7 @@ function drop(ev) {
       setTimeout(function () {
         reloadPuzzle();
         randomizeImage();
-      }, 2500);
+      }, 5500);
     }
   }
 }
